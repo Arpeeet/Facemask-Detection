@@ -51,6 +51,9 @@ The model is trained using a dataset containing images of people with and withou
 ## Results
 The model achieves high accuracy on test datasets and performs well in real-world scenarios.
 
+![plot](https://github.com/user-attachments/assets/f7cc695e-acc6-49b9-96f8-057b98de53d8)
+
+
 ## Contribution
 Feel free to contribute by submitting pull requests or reporting issues.
 
